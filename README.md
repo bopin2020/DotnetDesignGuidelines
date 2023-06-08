@@ -20,3 +20,31 @@
 > C# --> 代码样式 --> 命名
 ![image](https://user-images.githubusercontent.com/49940777/215311725-e09b6956-1d9f-47be-99d2-f791644ce34a.png)
 
+
+## 成员块位置
+```c#
+
+        #region private fields
+
+        #endregion
+
+
+        #region public members
+
+        #endregion
+
+
+        #region constructors
+
+        #endregion
+
+
+        #region private methods
+
+        #endregion
+
+        #region public methods
+
+        #endregion
+
+```
